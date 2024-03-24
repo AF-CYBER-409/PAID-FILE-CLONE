@@ -1,6 +1,6 @@
 import os
-import lll
-lll.login()
+import daily
+daily.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
