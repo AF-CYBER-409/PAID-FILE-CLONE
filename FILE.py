@@ -1,6 +1,6 @@
 import os
-import daily
-daily.login()
+import nano 
+nano.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
