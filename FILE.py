@@ -1,6 +1,6 @@
 import os
-import nano 
-nano.login()
+import vvk
+vvk.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
