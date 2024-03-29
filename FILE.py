@@ -1,6 +1,6 @@
 import os
-import Ganza
-Ganza.login()
+import R
+R.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
