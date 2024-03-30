@@ -1,6 +1,6 @@
 import os
-import R
-R.login()
+import asif
+asif.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
