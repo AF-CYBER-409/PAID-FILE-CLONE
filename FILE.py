@@ -1,6 +1,6 @@
 import os
-import sd
-sd.login()
+import tu
+tu.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
