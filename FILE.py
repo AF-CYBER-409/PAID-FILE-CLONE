@@ -1,6 +1,6 @@
 import os
-import spkk
-spkk.login()
+import skj
+skj.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
