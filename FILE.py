@@ -1,6 +1,6 @@
 import os
-import eee
-eee.login()
+import python 
+python.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
