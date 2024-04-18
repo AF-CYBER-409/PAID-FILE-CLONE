@@ -1,6 +1,6 @@
 import os
-import python 
-python.login()
+import cythonize
+cythonize.login()
 #---------------পারলে ডিকোড করে দেখা--------------#
 #------------------Abal-not-----------------#
 #--------------Fuck-your-decoder-mom---------------#
